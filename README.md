@@ -58,7 +58,7 @@ Implementat\_on\_of\_Personal\_Fitness\_Tracker\_using\_Python/
 ### 📱 Mobile View:
 | Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|--------------|--------------|
-| ![Home Page](Asserts/mobile1.png) | ![Prediction](Asserts/mobile2.png) | ![Similar Results](Asserts/mobile3.png) | ![General Info](Asserts/mobile4.png) |
+| ![Home Page](Asserts/Mobile1.png) | ![Prediction](Asserts/Mobile2.png) | ![Similar Results](Asserts/Mobile3.png) | ![General Info](Asserts/Mobile4.png) |
 
 ---
 
