@@ -53,7 +53,7 @@ Implementat\_on\_of\_Personal\_Fitness\_Tracker\_using\_Python/
 ### 💻 Desktop View:
 | Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|--------------|--------------|
-| ![Home Page](Asserts/desktop1.png) | ![Prediction](Asserts/desktop2.png) | ![Similar Results](Asserts/desktop3.png) | ![General Info](Asserts/desktop4.png) |
+| ![Home Page](Asserts/desktop1.png) | ![Prediction](Asserts/Desktop2.png) | ![Similar Results](Asserts/Desktop3.png) | ![General Info](Asserts/Desktop4.png) |
 
 ### 📱 Mobile View:
 | Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
